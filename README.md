@@ -1,6 +1,8 @@
 # Music-genre-Classification
 In this project we can classify music like it is disco song or classic etc..
 for code i use python in  jupyter notebook 
+
+
 #Working of website:
 * You need to upload the .wav music file in order to predict the genre of that file.
 * If the file is not .wav file then it will show an error.
