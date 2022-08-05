@@ -11,3 +11,6 @@ for code i use python in  jupyter notebook
 
 
 ![image](https://user-images.githubusercontent.com/84464407/183012065-2e6028d8-4c16-4784-bc68-e697f7eed13c.png)
+
+
+#you can download .wav data from this link : https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
