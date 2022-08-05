@@ -1,5 +1,7 @@
 # Music-genre-Classification
-In this project we can classify music like it is disco song or classic etc..
+In this project we can classify music like it is disco song or classic etc by using Machine learning..
+
+
 for code i use python in  jupyter notebook 
 
 
